@@ -9,7 +9,7 @@
 
 </br>
 <div align="center">
-  <a href="mailto:easyeun410@gmail.com"><img src="https://img.shields.io/badge/Gmail-DDDDFF?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:easyeun410@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD4DF?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </div>
 </br>
 
