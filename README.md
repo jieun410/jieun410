@@ -16,10 +16,10 @@
 
 ---
 
-<h3> Tech Stack </h3>
+<h3 align="center"> Tech Stack </h3>
 
 ---
-<h3> Studying </h3>
+<h3 align="center"> Studying </h3>
 
 <!--
 **jieun410/jieun410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
