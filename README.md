@@ -18,14 +18,24 @@
 
 <h3 align="center"> Tech Stack </h3>
 
+
+ 
 ---
 <h3 align="center"> Studying </h3>
 
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun410)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun410&hide=contribs,prs&show_icons=true&theme=Shows Github logo instead rank level)
+
 
 
 
