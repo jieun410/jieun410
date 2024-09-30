@@ -16,12 +16,12 @@
 
 ---
 
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> 🔥 Tech Stack 🔥 </h3>
 
 
  
 ---
-<h3 align="center"> Studying </h3>
+<h3 align="center"> ✏️ Studying ✏️ </h3>
 
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
