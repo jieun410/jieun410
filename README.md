@@ -23,9 +23,12 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun410)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun410)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun410&hide=contribs,prs&show_icons=true&theme=merko)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun410)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun410)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 
 
