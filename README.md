@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=250&color=FFF7D9&text=FUFU's%20GITHUB&fontColor=D6C5B3)
 
 ---
-<h3 align="center"> 🐤 Profile 🐤 </h3>
+<h3 align="center"> 🐥 Profile 🐥 </h3>
 
 - Bachelor of Mobile Software, Daegu Catholic University (~2025.02)</br>
 - Bachelor of Computer Science Engineering, Daegu Catholic University (~2025.02_Double Major)</br>
+- Master of Computer Software Department, Daegu Catholic University (2025.03 ~ )</br>
 - Research Student, Daegu Catholic University HCI Lab (2023.04 ~ )</br>
 
 </br>
@@ -14,15 +15,11 @@
 </br>
 
 
----
-
-<h3 align="center"> 🔥 Tech Stack 🔥 </h3>
-
-
  
 ---
 <h3 align="center"> ✏️ Studying ✏️ </h3>
 
+<!--
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-
+-->
 
 ---
 
