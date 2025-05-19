@@ -3,10 +3,12 @@
 ---
 <h3 align="center"> 🐥 Profile 🐥 </h3>
 
+<!--
 - Bachelor of Mobile Software, Daegu Catholic University (~2025.02)</br>
 - Bachelor of Computer Science Engineering, Daegu Catholic University (~2025.02_Double Major)</br>
 - Master of Computer Software Department, Daegu Catholic University (2025.03 ~ )</br>
 - Research Student, Daegu Catholic University HCI Lab (2023.04 ~ )</br>
+-->
 
 </br>
 <div align="center">
