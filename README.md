@@ -38,9 +38,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun410)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jieun410=anuraghazra&layout=compact) &nbsp;
 
-
+[![fufu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun410)](https://github.com/jieun410/github-readme-stats)
 
 
 
